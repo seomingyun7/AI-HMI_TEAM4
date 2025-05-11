@@ -1,4 +1,3 @@
-//dfasdfasf
 #include <SoftwareSerial.h>
 // #include <Adafruit_Sensor.h>
 // #include <DHT.h>
